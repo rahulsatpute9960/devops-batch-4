@@ -8,5 +8,5 @@ git log --oneline --pretty
 git log show
 git branch checkout -b dev
 git clone
-git pull origin master
-git push 
+git pull origin main
+git push origin main
