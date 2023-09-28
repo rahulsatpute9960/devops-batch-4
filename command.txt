@@ -10,3 +10,7 @@ git branch checkout -b dev
 git clone
 git pull origin main
 git push origin main
+git remote set-url origin --push https://<github created token>@gitub.com/<github username>/<reponame>
+
+#for example
+git remote set-url origin --push  https://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@github.com/rahulsatpute9960/devops-batch-4.git
