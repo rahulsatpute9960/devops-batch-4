@@ -7,3 +7,5 @@ git restore
 git log --oneline --pretty
 git log show
 git branch checkout -b dev
+git clone
+git pull origin master
